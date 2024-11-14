@@ -24,8 +24,8 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 
 ## CODING AND OUTPUT
 
-Developed By: Alan Samuel Vedanayagam
-Register Number: 212223040012
+Developed By: S Mohamed Ahsan
+Register Number: 212223240089
 
 ![image](https://github.com/user-attachments/assets/0c156aa6-889b-47b7-bcfb-45b4d3efb8ac)
 
